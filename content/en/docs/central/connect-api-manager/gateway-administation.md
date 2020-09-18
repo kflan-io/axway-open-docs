@@ -489,7 +489,7 @@ cd /home/APIC-agents
 sudo ./discovery_agent service enable
 ```
 
-To get name of the service:
+To get the name of the service:
 
 ```shell
 cd /home/APIC-agents
@@ -1030,7 +1030,7 @@ cd /home/APIC-agents
 sudo ./traceability_agent service enable
 ```
 
-To get name of the service:
+To get the name of the service:
 
 ```shell
 cd /home/APIC-agents
